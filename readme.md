@@ -64,7 +64,7 @@ All findings were unified into a professional Power BI dashboard offering both h
 * **4 interactive slicers**: Overtime, Marital Status, Salary, Years at Company
 
 > **📎 Final Dashboard Screenshot:**
-> `![Power BI Dashboard](images/dashboard.png)`
+>![Power BI Dashboard](images/dashboard.png)
 
 
 ---
@@ -120,3 +120,4 @@ This project delivers a complete, evidence-driven understanding of the key facto
 ## ⭐ Support This Project
 
 Consider starring the repository to support the work!
+
