@@ -1,4 +1,4 @@
-# 📉 HR Attrition Analytics – Root Cause Analysis
+# 📉 HR Attrition – Root Cause Analysis
 
 A multi‑tool diagnostic project built using **SQL**, **Excel**, and **Power BI** to uncover the actionable root causes behind employee attrition.
 
@@ -120,4 +120,5 @@ This project delivers a complete, evidence-driven understanding of the key facto
 ## ⭐ Support This Project
 
 Consider starring the repository to support the work!
+
 
